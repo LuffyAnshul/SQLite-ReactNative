@@ -2,7 +2,7 @@
 
 ## Preview 
 
-![New tab![Youtube Demo Video](/demoImages/youtube.png)](https://youtu.be/Pjge0TVcR9U)
+![New tab![Youtube Demo Video]](/demoImages/youtube.png)(https://youtu.be/Pjge0TVcR9U)
 
 ## Demo Images
 
