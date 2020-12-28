@@ -19,7 +19,9 @@
     git clone https://github.com/LuffyAnshul/NewsApp-ReactNative.git
     cd NewsApp-ReactNative
     npm install
-    npm start
+    react-native run-android
+    (Or for IOS Devices)
+    react-native run-ios
 
 ## Dependencies
 - [react](https://github.com/facebook/react): JS library for building user interfaces
