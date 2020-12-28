@@ -19,8 +19,8 @@
 
 
 ## Let Get Started
-    git clone https://github.com/LuffyAnshul/NewsApp-ReactNative.git
-    cd NewsApp-ReactNative
+    git clone https://github.com/LuffyAnshul/SQLite-ReactNative.git
+    cd SQLite-ReactNative
     npm install
     react-native run-android
     (Or for IOS Devices)
